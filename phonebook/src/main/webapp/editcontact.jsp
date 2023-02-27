@@ -1,4 +1,4 @@
-
+// Hey, How was your day?
 <%@page import="com.Entity.Contact"%>
 <%@page import="com.Connection.DbConnect"%>
 <%@page import="com.DAO.ContactDAO"%>
